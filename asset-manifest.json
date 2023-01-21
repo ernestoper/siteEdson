@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "https://ernestoper.github.io/siteEdson/static/css/main.805ddf1b.css",
+    "main.js": "https://ernestoper.github.io/siteEdson/static/js/main.e4d6a2cc.js",
+    "static/media/qeu.png": "https://ernestoper.github.io/siteEdson/static/media/qeu.eabef3fbd439f37ea81d.png",
+    "static/media/boomslag-black.png": "https://ernestoper.github.io/siteEdson/static/media/boomslag-black.27e2b30710dda10e3cd2.png",
+    "static/media/loading-dots.gif": "https://ernestoper.github.io/siteEdson/static/media/loading-dots.459cb7f164c08cfe316c.gif",
+    "static/media/logo.png": "https://ernestoper.github.io/siteEdson/static/media/logo.6ba4587fa165fba73133.png",
+    "index.html": "https://ernestoper.github.io/siteEdson/index.html",
+    "main.805ddf1b.css.map": "https://ernestoper.github.io/siteEdson/static/css/main.805ddf1b.css.map",
+    "main.e4d6a2cc.js.map": "https://ernestoper.github.io/siteEdson/static/js/main.e4d6a2cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.805ddf1b.css",
+    "static/js/main.e4d6a2cc.js"
+  ]
+}
